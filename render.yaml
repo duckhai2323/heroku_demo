@@ -1,2 +1,2 @@
 buildCommand: npm install
-startCommand: node index.js
+startCommand: npm run test
